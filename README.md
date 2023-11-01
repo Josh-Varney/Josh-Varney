@@ -1,0 +1,17 @@
+- 👋 Hi, I’m @Josh-Varney
+- 🌱 I’m currently studying BSc Computer Science and learning the following languages:
+-     - Python
+-     - Java and JS
+-     - Dart and Flutter 
+-    I’m looking to collaborate on
+-     - Android and iOS projects
+-     - Specific algoritmic issues
+-     - Process improvement projects
+-     - Backend projects
+- 📫 How to reach me
+-     - Send a message to my GitHub Account
+- 👌🏻 I specialise in:
+-       - Python OOP and Functional Programming
+-       - Data Structures and Algorithms
+-       - Improving Program Efficiency
+
