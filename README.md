@@ -2,7 +2,8 @@
 - 🌱 I’m currently studying BSc Computer Science and learning the following languages:
 -     - Python
 -     - Java and JS
--     - Dart and Flutter 
+-     - Dart and Flutter
+-     - C
 -    I’m looking to collaborate on
 -     - Android and iOS projects
 -     - Specific algoritmic issues
