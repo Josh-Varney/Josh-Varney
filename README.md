@@ -1,26 +1,25 @@
 👋 Hi, I’m Josh Varney!
 🎓 About Me
-I’m currently pursuing a BSc in Computer Science and have gained valuable experience working at Tradeweb, where I contributed to projects aimed at enhancing trading processes and improving efficiency. My passion for technology and dedication to continuous learning drive my commitment to tackling real-world challenges through innovative solutions.
+I have been immersed in computer science for over eight years, culminating in a First Class BSc in Computer Science. Currently, I work as a Cloud Infrastructure Engineer at Confluent, where I help build scalable and resilient systems. My professional journey includes impactful internships at Tradeweb, where I contributed to enhancing automation in electronic trading processes, collaborating with leading firms such as BlackRock and Fidelity. My deep passion for technology and commitment to continuous learning fuel my drive to solve real-world problems through innovative, forward-thinking solutions. 
+
+For my dissertation, I developed a decentralized application (dApp) on the Ethereum testnet to simulate fractional ownership of real estate. This project demonstrated how Byzantine fault-tolerant algorithms safeguard distributed nodes and ledgers, ensuring the integrity and security of internationally dispersed transactions.
 
 🌱 Technologies I’m Learning
-- Python
-- Java and JavaScript
-- Dart and Flutter
-- C
+- Golang
+- TypeScript
+- C++ (Personal Favourite)
   
 🔍 Current Focus
-In my final year, I’m undertaking an exciting project focused on accessing blockchain technology to tokenize the housing market. This project aims to explore how blockchain can increase transparency, reduce transaction costs, and enable fractional ownership in real estate. By creating a platform that allows users to buy, sell, and trade tokenized assets, I hope to contribute to making housing investments more accessible and efficient for everyone. This project not only enhances my technical skills but also deepens my understanding of the intersection between technology and real estate.
+In my role, I will be managing thousands of Docker containers and deploying servers globally, collaborating with major corporations such as Microsoft and Amazon on behalf of clients. I’m particularly interested in deepening my understanding of resource balancing in data streaming platforms like Apache Kafka, as I see this as a valuable and impactful area for my career growth. Looking ahead, I aim to explore opportunities in the fintech sector and pursue personal initiatives—such as launching a software company or developing my own technology brand. 
 
 🤝 Collaboration Interests
 I’m eager to collaborate on projects related to:
 
-Android and iOS development
-Tackling specific algorithmic challenges
-Process improvement initiatives
-Backend development
-👌🏻 My Specialties
-Object-Oriented Programming (OOP) and Functional Programming in Python
-Data Structures and Algorithms
-Optimizing and improving program efficiency
+- Web Applications
+- Fintech Projects 
+- Automation
+- Deployment and Devops
+- Testing Systems 
+
 📫 How to Reach Me
-Feel free to connect with me via my GitHub account or send me a message! I’m always open to networking and exploring new opportunities.
+Feel free to connect with me via my GitHub account or send me a message! 
